@@ -1,0 +1,17 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.7.0",
+    "node-fetch": "^2.1.2",
+    "nodemon": "^1.17.2"
+  }
+}
